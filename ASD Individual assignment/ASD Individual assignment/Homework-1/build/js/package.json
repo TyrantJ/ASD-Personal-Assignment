@@ -1,0 +1,17 @@
+{
+  "name": "hw-1",
+  "version": "0.0.1-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages\\hw-1-common",
+    "packages\\hw-1-common-test",
+    "packages_imported\\kotlin\\1.7.10",
+    "packages_imported\\kotlin-test-js-runner\\1.7.10"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
